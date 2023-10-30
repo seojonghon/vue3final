@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'vue3-master',
+    name: 'vue3-final',
     script: 'index.js',
     watch: '.'
   }, {
